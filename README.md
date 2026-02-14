@@ -75,13 +75,13 @@ Evaluation: BLEU-1, BLEU-2, BLEU-3, BLEU-4
 # Outputs
 
 ## Example Output 1
-![Output 1](Outputs/result1.png)
+![Output 1](Outputs/result-1.png)
 
 ## Example Output 2
-![Output 2](Outputs/result2.png)
+![Output 2](Outputs/result-2.png)
 
 ## Example Output 3
-![Output 3](Outputs/result3.png)
+![Output 3](Outputs/result-3.png)
 
 
 # 📈 Results
