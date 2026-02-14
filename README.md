@@ -46,6 +46,10 @@ Flickr8k Dataset
 
 8,000 images
 
+(Due to GitHub file size limits, the dataset is not included.
+
+Download it from: [Kaggle link: https://www.kaggle.com/datasets/adityajn105/flickr8k?select=Images])
+
 40,000 captions (5 captions per image)
 
 Split into:
