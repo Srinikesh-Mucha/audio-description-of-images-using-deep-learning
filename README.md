@@ -72,6 +72,18 @@ Data Processing: NumPy, Pandas
 
 Evaluation: BLEU-1, BLEU-2, BLEU-3, BLEU-4
 
+# Outputs
+
+## Example Output 1
+![Output 1](outputs/result1.png)
+
+## Example Output 2
+![Output 2](outputs/result2.png)
+
+## Example Output 3
+![Output 3](outputs/result3.png)
+
+
 # 📈 Results
 
 The model was evaluated using BLEU scores and achieved:
