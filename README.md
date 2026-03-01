@@ -106,7 +106,7 @@ These results outperformed baseline models such as CNN+LSTM and ResNet+GPT-2, de
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/audio-description-of-images.git
+git clone https://github.com/Srinikesh-Mucha/audio-description-of-images-using-deep-learning.git
 cd audio-description-of-images
 
 
